@@ -38,7 +38,7 @@ const [currentSlide, setCurrentSlide] = useState(0);
   const interval = setInterval(
     () => 
       setCurrentSlide((prev) => (prev === data.length - 1 ? 0 : prev + 1 )), 
-    3000
+    2000
   )
   return () => clearInterval(interval);
  } , []);
