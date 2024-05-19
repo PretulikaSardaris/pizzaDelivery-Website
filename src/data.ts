@@ -371,7 +371,7 @@ type Product = {
       slug: "pastas",
       title: "Italian Pastas",
       desc: "Savor the taste of perfection with our exquisite Italian handmade pasta menu.",
-      img: "https://img.freepik.com/premium-photo/pasta-with-bolognese-sauce-fresh-basil-tomatoes-black-plate-graphite-background-top-view-horizontal_166116-4371.jpg?w=900",
+      img: "https://img.freepik.com/premium-photo/fork-with-spaghetti-it-green-background_391229-1167.jpg",
       color: "white",
     },
     {
@@ -379,7 +379,7 @@ type Product = {
       slug: "burgers",
       title: "Juicy Burgers",
       desc: "Burger Bliss: Juicy patties, bold flavors, and gourmet toppings galore.",
-      img: "https://img.freepik.com/free-psd/fresh-beef-burger-isolated-transparent-background_191095-9025.jpg?size=626&ext=jpg&ga=GA1.1.1947755283.1706606604&semt=sph",
+      img: "https://img.freepik.com/premium-photo/burger-white-isolated-background_565470-1066.jpg",
       color: "black",
     },
     {
@@ -387,7 +387,7 @@ type Product = {
       slug: "pizzas",
       title: "Cheesy Pizzas",
       desc: "Pizza Paradise: Irresistible slices, mouthwatering toppings, and cheesy perfection.",
-      img: "https://img.freepik.com/free-photo/isolated-shot-pizza-with-ham-arugula_181624-45431.jpg?size=626&ext=jpg&ga=GA1.1.1947755283.1706606604&semt=sph",
+      img: "https://img.freepik.com/premium-photo/close-up-pizza-levitate-new-year-theme-red-background-with-gold-bohem-effect_916626-8771.jpg",
       color: "white",
     },
   ];

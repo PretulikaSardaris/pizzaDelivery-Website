@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import React from 'react'
 import Menu from './Menu'
+
 import CartIcon from './CartIcon';
 import Image from 'next/image';
 
@@ -10,7 +11,7 @@ const Navbar = () => {
     <div className="h-12 text-orange-700 p-4 flex items-center justify-between border-b-2 border-b-orange-500 uppercase md:h-24 lg:px-20 xl:px-40">
       <div className='hidden md:flex gap-4'>
         <Link href="/" >Homepage</Link>
-        <Link href="/Menu" >Menu</Link>
+        <Link href="/menu" >Menu</Link>
         <Link href="/" >Contact</Link>
 
       </div>
