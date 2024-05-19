@@ -140,7 +140,7 @@ type Product = {
       id: 7,
       title: "Garlic Parmesan Linguine",
       desc: "A garlic lover's delight, featuring linguine smothered in a creamy Parmesan sauce, infused with garlic and garnished with chopped parsley, bell peppers, and cherry tomatoes.",
-      img: "/temporary/p7.png",
+      img: "https://img.freepik.com/free-photo/delicious-italian-pizza-with-tomato-olives-pepperoni-mushrooms-top-view-isolated-white-background-still-life-copy-space_639032-299.jpg?size=626&ext=jpg&ga=GA1.1.1947755283.1706606604&semt=sph",
       price: 28.9,
       options: [
         {
