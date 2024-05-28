@@ -1,6 +1,60 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <img width="300px" src="https://img.freepik.com/premium-photo/aesthetic-dripping-tasty-pizza-slice-generative-ai_863013-1999.jpg" />
+  <h1 align="center">Pizzeria Spontini</h1>
+</p>
 
-## Getting Started
+## Table of Contents
+* [Introduction](#introduction)
+* [Features](#features)
+* [Technologies](#technologies)
+* [GettingStarted](#gettingStarted)
+* [LearnMore](#learnMore)
+  
+
+### Introduction
+
+<p align="center">
+  <img height="300px" src="https://pretulikasardaris.github.io/tailwind-portfolio/pizzeria.jpg" />
+</p>
+
+ This project is an exciting exploration of modern web development using TypeScript and Next.js. The primary focus so far has been on building a sleek and user-friendly UI to enhance the pizza ordering experience. As the project progresses, I will be adding more advanced functionalities such as user authentication and secure online payment processing. Stay tuned for updates and feel free to contribute or provide feedback!
+
+### Features
+
+Current Features
+Interactive UI: A sleek and user-friendly interface for a seamless pizza ordering experience.
+Responsive Design: Optimized for various devices, ensuring a great experience on both mobile and desktop.
+Upcoming Features
+User Authentication: Secure login and registration to personalize the user experience.
+Online Payment: Integration with secure payment gateways to facilitate online transactions.
+Order Tracking: Real-time tracking of your pizza delivery status.
+Customizable Pizzas: Options to customize your pizza with a variety of toppings and crust types.
+- **Mobile-Friendly Interface:** Provide smooth user experience across various devices with our mobile-friendly chatbot interface.
+
+
+
+### Technologies
+Technologies used by React ChatBotify are as below:
+#### Done with:
+
+<p align="center">
+  <img height="150" width="150" src="https://miro.medium.com/v2/resize:fit:983/1*W0fC854FAMD1EP60bnl2lg.png" />
+</p>
+<p align="center">
+Next
+</p>
+<p align="center">
+  <img height="150" width="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />
+</p>
+<p align="center">
+Typescript
+</p>
+
+#### Project Repository
+-https://github.com/PretulikaSardaris/pizzaDelivery-Website
+
+
+## GettingStarted
 
 First, run the development server:
 
