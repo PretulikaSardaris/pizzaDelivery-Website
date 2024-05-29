@@ -21,20 +21,20 @@
 
 ### Features
 
-Current Features
-Interactive UI: A sleek and user-friendly interface for a seamless pizza ordering experience.
-Responsive Design: Optimized for various devices, ensuring a great experience on both mobile and desktop.
-Upcoming Features
-User Authentication: Secure login and registration to personalize the user experience.
-Online Payment: Integration with secure payment gateways to facilitate online transactions.
-Order Tracking: Real-time tracking of your pizza delivery status.
-Customizable Pizzas: Options to customize your pizza with a variety of toppings and crust types.
-- **Mobile-Friendly Interface:** Provide smooth user experience across various devices with our mobile-friendly chatbot interface.
+**Current Features**
+**Interactive UI:** A sleek and user-friendly interface for a seamless pizza ordering experience.
+**Responsive Design:** Optimized for various devices, ensuring a great experience on both mobile and desktop.
+- **Upcoming Features**
+- **User Authentication:** Secure login and registration to personalize the user experience.
+- **Online Payment:** Integration with secure payment gateways to facilitate online transactions.
+- **Order Tracking:** Real-time tracking of your pizza delivery status.
+- **Customizable Pizzas:** Options to customize your pizza with a variety of toppings and crust types.
+- **Mobile-Friendly Interface:** Provide smooth user experience across various devices with our mobile-friendly interface.
 
 
 
 ### Technologies
-Technologies used by React ChatBotify are as below:
+Technologies used :
 #### Done with:
 
 <p align="center">
